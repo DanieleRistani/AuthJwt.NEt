@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fk5yKlxWcI0ywCHVXeJSjFY4PAfR9IoyMWR2sduADyw=",
+  "Source": "AuthJwt",
+  "BasePath": "_content/AuthJwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
