@@ -14,14 +14,14 @@
                                 <label for="password" class="form-label">Password</label>
                                 <input type="password" class="form-control" id="password" formControlName="password">
                             </div>            
-                            <button type="submit" class="btn btn-primary" (click)="runLogin()">Submit</button>
+                            <button type="submit" class="btn btn-primary me-1" (click)="runLogin()">Submit</button>
                             <button *ngIf="isLogged" type="submit" class="btn btn-primary" (click)="runLogout()">Logout</button>
                         </form>
                     </div>
                 </div>
             </div>
             <div class="col-12 d-flex justify-content-center mt-5">
-                <button class="btn btn-primary" (click)="loadUsers()">Carica Users</button>    
+                <button class="btn btn-primary me-1" (click)="loadUsers()">Carica Users</button>    
                 <button class="btn btn-primary" (click)="loadUser()">Carica User</button>               
 
             </div>

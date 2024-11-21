@@ -2,16 +2,15 @@ import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
 import { FormsModule } from '@angular/forms';
 import { ReactiveFormsModule } from '@angular/forms';
-import { Credentials } from '../../../SharedEntity/Credentials';
 import { HttpClient, HttpHeaders, HttpStatusCode } from '@angular/common/http';
 import { NgIf } from '@angular/common';
 import { jwtDecode} from 'jwt-decode';
-import { NgFor } from '@angular/common';
 import { Observable } from 'rxjs';
+import { Credentials } from '../../Entity/Credentials';
 @Component({
   selector: 'app-login',
   standalone: true,
-  imports: [FormsModule,ReactiveFormsModule,NgIf,NgFor],
+  imports: [FormsModule,ReactiveFormsModule,NgIf],
   templateUrl: './login.component.html',
   styleUrl: './login.component.css'
 })
