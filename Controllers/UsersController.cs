@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AuthJwt.Models;
 using BikeVille.CriptingDecripting;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AuthJwt.Controllers
 {
@@ -21,13 +22,14 @@ namespace AuthJwt.Controllers
             _context = context;
         }
 
+        [Authorize(Roles = "ADMIN")]
         // GET: api/Users
         [HttpGet("Index")]
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
             return await _context.Users.ToListAsync();
         }
-
+        [Authorize(Roles = "USER")]
         // GET: api/Users/5
         [HttpGet("Details/{id}")]
         public async Task<ActionResult<User>> GetUser(int id)

@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "AuthJwt.Auth.LoginJwtController",
+    "Method": "Login",
+    "RelativePath": "LoginJwt/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "AuthJwt.Auth.Credentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AuthJwt.Controllers.UsersController",
     "Method": "GetUser",
     "RelativePath": "Users/Details/{id}",

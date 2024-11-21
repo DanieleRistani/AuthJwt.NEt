@@ -1,0 +1,30 @@
+<section>
+    <div class="container" >
+        <div class="row d-flex justify-content-center">
+            <div class="col-8 mt-5">
+                <div class="card">
+                    <div class="card-body">
+                        <h1 class="text-center">Login</h1>
+                        <form  class="form" [formGroup]="login">
+                            <div class="mb-3">
+                                <label for="email" class="form-label">Email address</label>
+                                <input type="email" class="form-control" id="email" formControlName="email">
+                            </div>            
+                            <div class="mb-3">
+                                <label for="password" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="password" formControlName="password">
+                            </div>            
+                            <button type="submit" class="btn btn-primary" (click)="runLogin()">Submit</button>
+                            <button *ngIf="isLogged" type="submit" class="btn btn-primary" (click)="runLogout()">Logout</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 d-flex justify-content-center mt-5">
+                <button class="btn btn-primary" (click)="loadUsers()">Carica Users</button>    
+                <button class="btn btn-primary" (click)="loadUser()">Carica User</button>               
+
+            </div>
+        </div>
+    </div>
+</section>

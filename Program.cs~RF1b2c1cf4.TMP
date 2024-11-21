@@ -36,6 +36,13 @@ namespace AuthJwt
                 });
             });
 
+            //builder.Services.AddCors(options =>
+            //{
+            //    options.AddPolicy("AllowSpecificOrigin", policy =>
+            //    {
+            //        policy.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader();
+            //    });
+            //});
 
 
             //JwtConfiguration
@@ -58,20 +65,17 @@ namespace AuthJwt
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings.SecretKey))
 
                 };
-            });
+            }); 
 
 
-          
-            builder.Services.AddAuthorization(options =>
-            {
-                options.AddPolicy("AdminPolicy", policy => policy.RequireRole("ADMIN"));
-            });
+
+
 
 
             var app = builder.Build();
 
             //Cors
-            app.UseCors("CorsPolicy");
+            app.UseCors("AllowSpecificOrigin");
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -81,6 +85,7 @@ namespace AuthJwt
             }
 
             app.UseHttpsRedirection();
+
             app.UseAuthentication();
             app.UseAuthorization();
 
