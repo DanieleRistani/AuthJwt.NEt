@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\",
+  "WorkspaceRootPath": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwtback-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwtback-end\\auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwtback-end\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwtback-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\auth\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwtback-end\\auth\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwtback-end\\authjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:authjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\authjwt\\authjwtback-end\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,21 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Auth\\JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Auth\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Auth\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Auth\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Auth\\JwtSettings.cs",
               "RelativeToolTip": "Auth\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T10:32:42.018Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -74,24 +73,23 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AuthJwt.http",
-              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwt.http",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\AuthJwt.http",
               "RelativeDocumentMoniker": "AuthJwt.http",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwt.http",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\AuthJwt.http",
               "RelativeToolTip": "AuthJwt.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-21T20:34:20.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T20:34:20.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Program.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T10:59:38.506Z",
               "EditorCaption": ""
@@ -100,53 +98,50 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Credentials.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Auth\\Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Auth\\Credentials.cs",
               "RelativeDocumentMoniker": "Auth\\Credentials.cs",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Auth\\Credentials.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Auth\\Credentials.cs",
               "RelativeToolTip": "Auth\\Credentials.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T10:37:46.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T10:37:46.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginJwtController.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Auth\\LoginJwtController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Auth\\LoginJwtController.cs",
               "RelativeDocumentMoniker": "Auth\\LoginJwtController.cs",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Auth\\LoginJwtController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Auth\\LoginJwtController.cs",
               "RelativeToolTip": "Auth\\LoginJwtController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswD8AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD8AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T10:31:00.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:54:05.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:54:05.139Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\appsettings.json",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\AuthJwt\\AuthJwtBack-End\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T09:31:38.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T09:31:38.963Z"
             }
           ]
         },
