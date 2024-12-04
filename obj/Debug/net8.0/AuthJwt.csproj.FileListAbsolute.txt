@@ -576,3 +576,7 @@ C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\obj\Debug\net8.0\refint\
 C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\obj\Debug\net8.0\AuthJwt.pdb
 C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\obj\Debug\net8.0\AuthJwt.genruntimeconfig.cache
 C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\obj\Debug\net8.0\ref\AuthJwt.dll
+C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\bin\Debug\net8.0\AuthJwt.staticwebassets.endpoints.json
+C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\obj\Debug\net8.0\staticwebassets\msbuild.AuthJwt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Desktop\WA\DotNetCorso\AuthJwt\AuthJwtBack-End\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

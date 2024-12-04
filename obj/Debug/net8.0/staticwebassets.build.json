@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "Fk5yKlxWcI0ywCHVXeJSjFY4PAfR9IoyMWR2sduADyw=",
+  "Hash": "GharshCuPeoaeYfwXQ3JdzhtdzROO8/JRPQc56H52Tc=",
   "Source": "AuthJwt",
   "BasePath": "_content/AuthJwt",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
